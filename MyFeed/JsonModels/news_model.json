@@ -1,0 +1,58 @@
+{
+   "news_feed":[
+      {
+         "source":"NDTV",
+         "description":"Sensex Rises Over 1,000 Points After RBI Holds Rates At Record Lows",
+         "time":"3",
+         "commentsCount":"120",
+         "likesCount":"78",
+         "dislikesCount" : "5",
+         "imageName" : "sensex.jpg"
+      },
+      {
+         "source":"BBC",
+         "description":"TikTok to Be Most Downloaded, Highest Grossing App of 2021: Sensor Tower",
+         "time":"4",
+         "commentsCount":"260",
+         "likesCount":"106",
+         "dislikesCount" : "23",
+         "imageName" : "tiktok.jpg"
+      },
+      {
+         "source":"Aditi Ahuja",
+         "description":"US Woman Spits In Bag Of Chips And Reseals It, Prank Disgusts The Internet",
+         "time":"6",
+         "commentsCount":"63",
+         "likesCount":"8",
+         "dislikesCount" : "1",
+         "imageName" : "chips.jpg"
+      },
+      {
+         "source":"Press Trust of India",
+         "description":"Lalu Yadav's Son Tejashwi To Get Married Soon, Engagement Tomorrow",
+         "time":"1",
+         "commentsCount":"70",
+         "likesCount":"24",
+         "dislikesCount" : "0",
+         "imageName" : "marraige.jpg"
+      },
+      {
+         "source":"The Times of India",
+         "description":"CDS Rawat's chopper crash: What we know so far",
+         "time":"5",
+         "commentsCount":"284",
+         "likesCount":"89",
+         "dislikesCount" : "24",
+         "imageName" : "crash.jpg"
+      },
+      {
+         "source":"The Times of India",
+         "description":"Katrina Kaif-Vicky Kaushal wedding: Live updates",
+         "time":"6",
+         "commentsCount":"342",
+         "likesCount":"1099",
+         "dislikesCount": "9",
+         "imageName" : "live.jpg"
+      }
+   ]
+}
